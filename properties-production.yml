@@ -3,16 +3,16 @@ user:
   timeout-ms: 3600
   json-data:
     title:exampleglossary
-    GlossDiv:
+    GlossDiv: 
     title:S
-    GlossList:
-    GlossEntry:
+    GlossList: 
+    GlossEntry: 
     ID:SGML
     SortAs:SGML
     GlossTerm:StandardGeneralizedMarkupLanguage
     Acronym:SGML
     Abbrev:ISO8879:1986
-    GlossDef:
+    GlossDef: 
     para:Ameta-markuplanguage,usedtocreatemarkuplanguagessuchasDocBook.
     GlossSeeAlso:[GML,XML]
     GlossSee:markup
