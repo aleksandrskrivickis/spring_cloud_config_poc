@@ -1,4 +1,4 @@
-'user','{
+'user': "{
       "max-connections": 1,
       "timeout-ms": 3600,
 	  "json-data": {
@@ -21,4 +21,4 @@
 		}
 		}
 		}
-    }','properties','production','latest'
+    }"
