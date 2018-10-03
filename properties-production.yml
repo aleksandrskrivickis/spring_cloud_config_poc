@@ -1,6 +1,10 @@
-user:
-  max-connections: 1
-  timeout-ms: 3600
-  json-data:
-    new_variable: 12345
-    new_txt_var: kjhjkl
+{
+  "user" : {
+    "json-data" : {
+      "new_txt_var" : "kjhjkl",
+      "new_variable" : 12345
+    },
+    "max-connections" : 1,
+    "timeout-ms" : 3600
+  }
+}
