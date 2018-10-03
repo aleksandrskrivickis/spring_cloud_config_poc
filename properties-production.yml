@@ -1,0 +1,6 @@
+user:
+  max-connections: 1
+  timeout-ms: 3600
+  json-data:
+    new_variable: 12345
+    new_txt_var: kjhjkl
