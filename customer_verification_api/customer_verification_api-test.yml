@@ -1,0 +1,20 @@
+---
+config_identifier:
+  application: customer_verification_api
+  profile: test
+  label: beta
+  source: git
+object:
+  key: value
+  array:
+  - null_value: 
+  - boolean: true
+  - integer: 1
+paragraph: |
+  Blank lines denote
+  paragraph breaks
+content: |-
+  Or we
+  can auto
+  convert line breaks
+  to save space
