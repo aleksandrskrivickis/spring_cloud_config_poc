@@ -2,7 +2,7 @@
 config_identifier:
   application: customer_support_api
   profile: test
-  label: latest
+  label: beta
   source: git
 menu:
   id: file
