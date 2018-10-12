@@ -1,0 +1,16 @@
+---
+config_identifier:
+  application: customer_support_api
+  profile: production
+  label: latest
+menu:
+  id: file
+  value: File
+  popup:
+    menuitem:
+    - value: New
+      onclick: CreateNewDoc()
+    - value: Open
+      onclick: OpenDoc()
+    - value: Close
+      onclick: CloseDoc()
