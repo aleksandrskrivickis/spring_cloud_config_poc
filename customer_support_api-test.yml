@@ -1,0 +1,17 @@
+---
+config_identifier:
+  application: customer_support_api
+  profile: test
+  label: latest
+  source: git
+menu:
+  id: file
+  value: File
+  popup:
+    menuitem:
+    - value: New
+      onclick: CreateNewDoc()
+    - value: Open
+      onclick: OpenDoc()
+    - value: Close
+      onclick: CloseDoc()
