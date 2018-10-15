@@ -8,7 +8,7 @@ object:
   key: value
   anotherkey:
     nestedkey:
-      nestnestedkey: nest-nested-val
+      nestnestedkey: Alex
       anothernestnestedkey: another-nes-nested-val
   array:
   - null_value: 
