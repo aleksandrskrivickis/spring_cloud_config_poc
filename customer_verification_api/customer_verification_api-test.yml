@@ -6,6 +6,9 @@ config_identifier:
   source: git
 object:
   key: value
+  anotherkey:
+    nestedkey:
+      nestnestedkey: nest-nested-val
   array:
   - null_value: 
   - boolean: true
