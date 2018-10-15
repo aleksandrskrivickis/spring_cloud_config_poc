@@ -9,6 +9,7 @@ object:
   anotherkey:
     nestedkey:
       nestnestedkey: nest-nested-val
+      anothernestnestedkey: another-nes-nested-val
   array:
   - null_value: 
   - boolean: true
